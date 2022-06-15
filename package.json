@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-modal-backdrop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Backdrop options for a responsive popup with Bootstrap 5. Prevent close on click outside with static backdrop, remove backdrop, enable interactivity & more.",
   "main": "basic.html",
   "scripts": {
