@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-modal-backdrop",
+  "version": "1.0.0",
+  "description": "Backdrop options for a responsive popup with Bootstrap 5. Prevent close on click outside with static backdrop, remove backdrop, enable interactivity & more.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-modal-backdrop.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "modal",
+    "modals",
+    "responsive-design",
+    "tempate",
+    "bootstrap5",
+    "bootstrap5-template"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-modal-backdrop/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/modal-backdrop/"
+}
